@@ -64,13 +64,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📸 Simulation Result (Optional)
-
-> *(Add a waveform screenshot here if available)*  
-> e.g., “The image below shows the traffic lights cycling correctly with the expected delay per state.”
-
----
-
 ## 🚀 Future Enhancements
 
 - Add pedestrian crossing signals
@@ -81,6 +74,6 @@ Through this project, I gained hands-on experience in:
 ---
 
 ## NOTE :
-> The main source code and testbech files are inside the .srcs folder
-> 👨‍💻 Designed and tested as part of my Verilog learning journey.
+- The main source code and testbech files are inside the .srcs folder
+- 👨‍💻 Designed and tested as part of my Verilog learning journey.
 > 📫 Feel free to reach out or fork this repo if you'd like to contribute or suggest improvements.
